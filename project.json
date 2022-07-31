@@ -2,6 +2,7 @@
     "project_name": "TestRemoteGame",
     "project_id": "{42859465-8647-4ea3-8a62-14fd3ff3aa1d}",
     "origin": "The primary repo for TestRemoteGame goes here: i.e. http://www.mydomain.com",
+	"origin_uri": "https://github.com/Philibob/RemoteProject.git",
     "license": "What license TestRemoteGame uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
     "display_name": "TestRemoteGame",
     "summary": "A short description of TestRemoteGame.",
